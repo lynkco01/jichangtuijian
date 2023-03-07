@@ -322,7 +322,7 @@ BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支
 
 [BoomCloud 机场官网](https://clashnode.xyz/boomcloud) ｜ [如何使用 BoomCloud 云加速？](https://clashnode.xyz/how-to-use-boomcloud-shadowsocks/)  
 
-[翻墙机场常见问题](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场常见问题.png)
+[翻墙机场常见问题](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场常见问题.png)  
 翻墙机场选哪一个？
 ---------
 
@@ -331,19 +331,23 @@ BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支
 如果你使用过多个翻墙机场，可能会发现他们的网站有一些相似性，这里并不要觉得太奇怪，翻墙机场一般采用开源面板，从而可以将更多精力放在优化翻墙线路上，用户也可因此获得便宜又稳定的翻墙线路。机场选择就是要多尝试，尽可能选择更短的付款周期，不要贪图小便宜被一家机场给锁死了，并且一定要有备用的机场或VPN梯子。
 ### 翻墙协议
 
-使用翻墙机场，一般无需纠结使用哪一种翻墙协议，Shadowsocks、V2ray、Trojan 在稳定性和速度方面的表现差异不大。[Shadowsocks、V2ray 和 Trojan 协议，哪一种翻墙协议最好？](https://clashnode.xyz/shadowsocks-v2ray-and-trojan-protocol-which-one-is-the-best/)### 线路
+使用翻墙机场，一般无需纠结使用哪一种翻墙协议，Shadowsocks、V2ray、Trojan 在稳定性和速度方面的表现差异不大。[Shadowsocks、V2ray 和 Trojan 协议，哪一种翻墙协议最好？](https://clashnode.xyz/shadowsocks-v2ray-and-trojan-protocol-which-one-is-the-best/)
+### 线路
 
-很多机场可能会宣传他们的IPLC、IEPL专线有多么稳定，这里其实完全不用在意，不管是直连、中转还是内网专线节点，只要能保证稳定性，就是好的线路。并非所谓的专线就比普通中转节点体验更好，这个只有实际体验，才能得出结论。 ### 测速
+很多机场可能会宣传他们的IPLC、IEPL专线有多么稳定，这里其实完全不用在意，不管是直连、中转还是内网专线节点，只要能保证稳定性，就是好的线路。并非所谓的专线就比普通中转节点体验更好，这个只有实际体验，才能得出结论。
+### 测速
 
 网络上的测速仅供参考，一切请以实际体验为准。不要过分在意速度峰值表现，没有任何意义，基本上速度能跑到50Mbps以上，少有发生断流显现，实际的用户体验就是十分优异的。除了测速，流媒体解锁情况也是如此，可能经常会发生变动，之前承诺解锁 Netflix、Disney+的节点可能过两天就无法正常观看了。 翻墙机场使用流程
 --------
 
 翻墙机场的使用会比傻瓜式一键翻墙VPN麻烦一些，不过也很简单。 > 网站注册 --- 购买套餐 --- 下载软件 --- 导入订阅 --- 开启软件
 
-其中的订阅链接等同于账户密码，不要公开发布在网络上。一旦发现流量使用异常，需要及时登录机场网站进行订阅链接重置。 iOS 系统翻墙的特殊性
+其中的订阅链接等同于账户密码，不要公开发布在网络上。一旦发现流量使用异常，需要及时登录机场网站进行订阅链接重置。
+iOS 系统翻墙的特殊性
 ------------
 
-苹果公司早在2017年就下载了中国区应用商店中的VPN应用，包含我们使用翻墙机场需要使用的 Shadowrocket、Quantumult X等软件。 所以目前为止，中国区苹果用户下载 VPN 或 Shadowrocket 一类代理软件，都需要通过在 App Store 中切换账号到非中国区才能顺利下载应用进而翻墙。 我们最常用的非中国区苹果账号一般是美区，可以根据网上的教程自己注册美区苹果账号，也可以直接购买现成的已购入 Shadowrocket 软件的美区账号，此方式更加简单快捷，推荐大多数翻墙者使用。 [美区 Apple ID 购买入口](https://clashnode.xyz/us-apple-id)[Shadowrocket 小火箭已购 Apple ID 购买入口](https://clashnode.xyz/shadowrocket-apple-id)[Quantumult X 已购美区 Apple ID 购买入口](https://clashnode.xyz/quantumult-x-code)如果自己有美区 Apple ID，即美区苹果账号，可以直接购买兑换码。 ![翻墙机场客户端选择](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场客户端选择.png "翻墙机场客户端选择")我应该选择什么客户端？
+苹果公司早在2017年就下载了中国区应用商店中的VPN应用，包含我们使用翻墙机场需要使用的 Shadowrocket、Quantumult X等软件。 所以目前为止，中国区苹果用户下载 VPN 或 Shadowrocket 一类代理软件，都需要通过在 App Store 中切换账号到非中国区才能顺利下载应用进而翻墙。 我们最常用的非中国区苹果账号一般是美区，可以根据网上的教程自己注册美区苹果账号，也可以直接购买现成的已购入 Shadowrocket 软件的美区账号，此方式更加简单快捷，推荐大多数翻墙者使用。 [美区 Apple ID 购买入口](https://clashnode.xyz/us-apple-id)[Shadowrocket 小火箭已购 Apple ID 购买入口](https://clashnode.xyz/shadowrocket-apple-id)[Quantumult X 已购美区 Apple ID 购买入口](https://clashnode.xyz/quantumult-x-code)如果自己有美区 Apple ID，即美区苹果账号，可以直接购买兑换码。 ![翻墙机场客户端选择](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场客户端选择.png "翻墙机场客户端选择")
+我应该选择什么客户端？
 -----------
 
 客户端的选择依赖于翻墙者选择什么样的翻墙服务。如果是选择一键翻墙VPN服务，如快连VPN，那么只能使用他们官方的应用程序的对应版本。如果选择翻墙机场，能够选择的客户端就很多了，下面分不同的操作系统列举一下。  
