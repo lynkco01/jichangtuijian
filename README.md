@@ -1,3 +1,4 @@
+# 2023 翻墙机场推荐
 2023 年流行的翻墙机场推荐，机场梯子适合已经翻墙很久，掌握了一些翻墙知识的同学。机场一般采用专用的翻墙协议，如 Shadowsocks、ShadowsocksR、V2ray（Vmess）、Trojan 等， 适配于 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2rayN、Surfboard 等多种客户端。翻墙机场**不是VPN，但胜过VPN。**![Clash 翻墙机场推荐](https://clashnode.xyz/wp-content/uploads/2022/06/Clash-翻墙机场推荐.png)  
 翻墙机场不同于一键VPN，采用针对GFW开发的翻墙协议，在速度和稳定性方面表现十分优异。需要注册账号**购买订阅**并搭配**第三方软件**使用，下面是各常用平台翻墙软件安装地址。 *注意：你个人的订阅链接中包含连接信息，等同于账号密码，切记不要泄露。若发现自己的订阅套餐流量异常，请即时前往机场网站重置订阅链接。*
 
