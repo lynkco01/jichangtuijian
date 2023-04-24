@@ -110,7 +110,7 @@ FlyingBird 飞鸟机场是一家新晋 Shadowsocks 翻墙服务商，采用国�
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
 [FlyingBird 官网](https://clashnode.xyz/flyingbird) ｜ [FlyingBird 飞鸟机场怎么样？](https://clashnode.xyz/flyingbird)
-![Web3VPN 官网](https://2022vpn.net/wp-content/uploads/2022/11/web3vpn.png "Web3VPN 官网")
+![Web3VPN 官网](https://clashnode.xyz/wp-content/uploads/2023/04/Web3VPN-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)
 ### 6.Web3VPN
 
 - Shadowsocks 翻墙机场
