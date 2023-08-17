@@ -286,37 +286,24 @@ Gatern也叫班机机场，原名 Shuttle，是一家拥有双线负载的翻墙
 - 安卓系统：白月光 安卓客户端；Clash
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
-[白月光官网](https://clashnode.xyz/cn88) ｜白月光加速器怎么样？ ![OTT Cloud 机场官网](https://clashnode.xyz/wp-content/uploads/2023/02/OTT-Cloud-机场官网.png)
-### 15.OTT Cloud
-
-OTT Cloud 是一家2022年12月开业的新机场，采用 Shadowsocks 专用翻墙协议，专线节点，万兆带宽，稳定性不错，对 Netflix、Disney+ 流媒体解锁支持度也很好。有专门的 IPLC 游戏节点。
- **套餐价格：**
-- 基础套餐：￥20/月，100G流量/月。
-- 高级套餐：￥50/月，300G流量/月。
-- 商务套餐：￥90/月，1000G流量/月。
--
-- 基础套餐：￥20/月，100G流量/月。
-
-**客户端支持：**
-- Windows 系统：Clash for Windows
-- macOS 系统：ClashX
-- 安卓系统：Clash
-- iOS：Shadowrocket；Stash（Clash for iOS）
-
-[OTT Cloud 官网](https://clashnode.xyz/ottcloud) | [OTT Cloud 机场怎么样？](https://clashnode.xyz/ottcloud)[![BoomCloud 机场官网](https://clashnode.xyz/wp-content/uploads/2022/08/BoomCloud.png)](/boomcloud)
-### 16.BoomCloud - 老牌翻墙机场
+[白月光官网](https://clashnode.xyz/cn88) ｜白月光加速器怎么样？
+[![BoomCloud 机场官网](https://clashnode.xyz/wp-content/uploads/2022/08/BoomCloud.png)](/boomcloud)
+### 15.BoomCloud - 老牌翻墙机场
 
 - Shadowsocks 翻墙机场
 - 谷歌和苹果礼品卡福利
 - IPLC专线翻墙机场
 
-BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支持，IPLC内网专线不过墙，服务翻墙用户多年，稳定靠谱。除了常规包月套餐之外，BoomCloud 也有一次性流量包出售，按量付费，适合轻度翻墙者订阅。BoomCloud 年度订阅用户还可享受谷歌云盘福利、苹果礼品卡福利，针对企业有用有 Team Plan方案，详情请查看 BoomCloud 官方网页。 **套餐价格：**- Silver 套餐：￥298每年，每月60G流量限制，30+中继线路。
+BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支持，IPLC内网专线不过墙，服务翻墙用户多年，稳定靠谱。除了常规包月套餐之外，BoomCloud 也有一次性流量包出售，按量付费，适合轻度翻墙者订阅。BoomCloud 年度订阅用户还可享受谷歌云盘福利、苹果礼品卡福利，针对企业有用有 Team Plan方案，详情请查看 BoomCloud 官方网页。
+**套餐价格：**
+- Silver 套餐：￥298每年，每月60G流量限制，30+中继线路。
 - Gold 套餐：￥408每年，每月120G流量限制，40+中继线路。
 - Paltinum 套餐：￥58/月，300G流量限制，50+中继线路。
 - Paltinum+ 套餐：￥99/月，500G流量限制，50+中继线路。
 - Diamond 套餐：￥158/月，800G流量限制，50+中继线路。
 
-**客户端支持：**- Windows 系统：BoomCloud 客户端；Clash for Windows
+**客户端支持：**
+- Windows 系统：BoomCloud 客户端；Clash for Windows
 - macOS 系统：BoomCloud Mac端；ClashX
 - 安卓系统：BoomCloud 安卓版；Clash
 - iOS：Shadowrocket；Stash（Clash for iOS）
