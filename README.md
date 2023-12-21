@@ -242,8 +242,8 @@ Kuromis 库洛米是一家提供优质专线节点的新晋翻墙机场，支持
 - 安卓系统：Clash；Surfboard
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
-[库洛米机场官网](/kuromis) | [库洛米机场怎么样？](https://clashnode.xyz/how-about-kuromis-cloud/)
-[![GATERN机场官网](https://clashnode.xyz/wp-content/uploads/2022/10/GATERN机场官网.png "GATERN机场官网")
+[库洛米机场官网](/kuromis) | [库洛米机场怎么样？](https://clashnode.xyz/how-about-kuromis-cloud/)  
+![GATERN机场官网](https://clashnode.xyz/wp-content/uploads/2022/10/GATERN机场官网.png "GATERN机场官网")
 ### 13.Gatern 机场
 
 - V2ray翻墙机场
@@ -337,7 +337,7 @@ BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支
 
 客户端的选择依赖于翻墙者选择什么样的翻墙服务。如果是选择一键翻墙VPN服务，如快连VPN，那么只能使用他们官方的应用程序的对应版本。如果选择翻墙机场，能够选择的客户端就很多了，下面分不同的操作系统列举一下。  
  **iPhone 翻墙客户端**  
- 目前iOS系统上最流行的翻墙软件非小火箭莫属了，小火箭英文为 Shadowrocket，售价2.99美元，中国区App Store 无法下载。想要在iPhone上使用小火箭，需要通过非中国区Apple ID购买，这个Apple ID我们可以自己注册，也可以通过第三方网站购买成品账号。不建议从淘宝购买，因为遇到黑卡的概率很大，可能会导致账号被封锁。 Stash 即[ Clash for iOS](https://clashios.com/) 售价3.99美元，使用同样简单，支持一键导入和手动导入。更多 iOS 翻墙代理软件请自行谷歌研究。  
+ 目前iOS系统上最流行的翻墙软件非小火箭莫属了，小火箭英文为 Shadowrocket，售价2.99美元，中国区App Store 无法下载。想要在iPhone上使用小火箭，需要通过非中国区Apple ID购买，这个Apple ID我们可以自己注册，也可以通过第三方网站购买成品账号。不建议从淘宝购买，因为遇到黑卡的概率很大，可能会导致账号被封锁。 Stash 即[ Clash for iOS](https://clashforios.com/) 售价3.99美元，使用同样简单，支持一键导入和手动导入。更多 iOS 翻墙代理软件请自行谷歌研究。  
   **安卓手机翻墙客户端**  
   安卓手机比较流行的几个代理软件有 Clash、SagerNet 和 v2rayNG。一般选择翻墙机场，那么最推荐使用Clash，直接导入订阅链接即可使用，Clash软件简单易用，且比较美观。如果你是自建翻墙节点，选择 SagerNet 或 v2rayNG 可能更为方便，可以通过二维码或SS/V2ray/Trojan 链接直接导入。  
    **电脑翻墙客户端**  
