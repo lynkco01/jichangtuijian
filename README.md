@@ -187,7 +187,7 @@ Tomato Cloud 是一家运营时间超过5年的老牌机场，支持 SSR、V2ray
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
 [TomatoCloud 官网](https://clashnode.xyz/tomatocloud) ｜ TomatoCloud 怎么样？
-[![SSRDOG 机场官网](https://clashnode.xyz/wp-content/uploads/2023/01/image-7.webp)
+![SSRDOG 机场官网](https://clashnode.xyz/wp-content/uploads/2023/01/image-7.webp)
 ### 10.SSRDOG 机场 - 2024 稳定专线机场
 
 - V2ray 翻墙机场
@@ -223,7 +223,7 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
 [Nexitally 机场官网](https://clashnode.xyz/nexitally) ｜ [Nexitally 奶昔机场怎么样？](https://clashnode.xyz/how-about-nexitally-cloud/)
-[![最萌的云机场](https://clashnode.xyz/wp-content/uploads/2023/01/image-6.webp)
+![最萌的云机场](https://clashnode.xyz/wp-content/uploads/2023/01/image-6.webp)
 
 ### 12.最萌の云
 - V2ray 翻墙机场
@@ -243,7 +243,7 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 - iOS：Shadowrocket；Stash（Clash for iOS）
 
 [最萌の云官网](https://clashnode.xyz/mengyun) ｜ 最萌の云机场怎么样？
-[![GODETIA CLOUD 机场](https://aijichang.com/wp-content/uploads/2023/01/GODETIA-CLOUD-%E6%9C%BA%E5%9C%BA.png)
+![GODETIA CLOUD 机场](https://aijichang.com/wp-content/uploads/2023/01/GODETIA-CLOUD-%E6%9C%BA%E5%9C%BA.png)
 ### 13.Godetia
 
 - Shadowsocks 翻墙机场
@@ -373,9 +373,10 @@ BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支
 ## iOS 系统翻墙的特殊性
 
 苹果公司早在2017年就下载了中国区应用商店中的VPN应用，包含我们使用翻墙机场需要使用的 Shadowrocket、Quantumult X等软件。 所以目前为止，中国区苹果用户下载 VPN 或 Shadowrocket 一类代理软件，都需要通过在 App Store 中切换账号到非中国区才能顺利下载应用进而翻墙。 我们最常用的非中国区苹果账号一般是美区，可以根据网上的教程自己注册美区苹果账号，也可以直接购买现成的已购入 Shadowrocket 软件的美区账号，此方式更加简单快捷，推荐大多数翻墙者使用。  
- [美区 Apple ID 购买入口](https://clashnode.xyz/us-apple-id)  
- [Shadowrocket 小火箭已购 Apple ID 购买入口](https://clashnode.xyz/shadowrocket-apple-id)  
- [Quantumult X 已购美区 Apple ID 购买入口](https://clashnode.xyz/quantumult-x-code)  如果自己有美区 Apple ID，即美区苹果账号，可以直接购买兑换码。 ![翻墙机场客户端选择](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场客户端选择.png "翻墙机场客户端选择")
+ - [美区 Apple ID 购买入口](https://clashnode.xyz/us-apple-id)  
+ - [Shadowrocket 小火箭已购 Apple ID 购买入口](https://clashnode.xyz/shadowrocket-apple-id)  
+ - [Quantumult X 已购美区 Apple ID 购买入口](https://clashnode.xyz/quantumult-x-code)  
+如果自己有美区 Apple ID，即美区苹果账号，可以直接购买兑换码。 ![翻墙机场客户端选择](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场客户端选择.png "翻墙机场客户端选择")
 ## 我应该选择什么客户端？
 
 客户端的选择依赖于翻墙者选择什么样的翻墙服务。如果是选择一键翻墙VPN服务，如快连VPN，那么只能使用他们官方的应用程序的对应版本。如果选择翻墙机场，能够选择的客户端就很多了，下面分不同的操作系统列举一下。  
@@ -392,4 +393,4 @@ BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支
 不同的翻墙机场应对中国防火墙的力度不同，为了防止购买的机场VPN被完全封锁而导致无法顺利翻墙出海，[ClashSub](https://clashsub.com/)博客建议购买备用翻墙服务，或者将一些翻墙服务的免翻墙地址收藏到本地。一般而言，只有一个翻墙机场是不足以应付伟大的防火长城的，特别是遇上一些敏感时期。
 ### 善用翻墙机场客服和官网帮助文档
 
-大部分的付费翻墙机场服务商都提供了即时聊天客服和详细的帮助文档，基本上你在使用过程中遇到的任何问题都可以得到解决。阅读文档后有不懂的可以善用谷歌，实在不行可以发送工单或找翻墙服务的客服寻求解决方案。 如果经历上述的方式你的问题也没有得到解决，也可以加入第三方独立的翻墙讨论区，和广大翻墙网友一同寻求解决方案。 #翻墙机场 #翻墙机场推荐 # 2024 机场推荐 #机场推荐 2024 #SS机场 #V2ray机场 #V2ray 机场推荐 #Trojan机场 #老牌翻墙机场 #高端翻墙机场
+大部分的付费翻墙机场服务商都提供了即时聊天客服和详细的帮助文档，基本上你在使用过程中遇到的任何问题都可以得到解决。阅读文档后有不懂的可以善用谷歌，实在不行可以发送工单或找翻墙服务的客服寻求解决方案。 如果经历上述的方式你的问题也没有得到解决，也可以加入第三方独立的翻墙讨论区，和广大翻墙网友一同寻求解决方案。   #翻墙机场 #翻墙机场推荐 # 2024 机场推荐 #机场推荐 2024 #SS机场 #V2ray机场 #V2ray 机场推荐 #Trojan机场 #老牌翻墙机场 #高端翻墙机场
