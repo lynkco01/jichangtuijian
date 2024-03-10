@@ -211,6 +211,8 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 
 
 [肥猫云机场官网](https://clashsub.com/fatcat) ｜[肥猫云机场怎么样？](https://clashsub.com/fatcat)
+
+![Web3 机场](https://clashsub.com/wp-content/uploads/2023/04/WEB3VPN-%E6%9C%BA%E5%9C%BA.webp)
 ### 14.Web3VPN
 
 - Shadowsocks 翻墙机场
