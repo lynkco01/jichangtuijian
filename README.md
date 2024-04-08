@@ -64,9 +64,9 @@ SSRDOG 是一家运营始于2022年的翻墙机场，采用V2ray安全协议，�
 OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外团队运营，翻墙协议采用流行的 Shadowsocks 协议，国内采用 BGP 服务器入口，IEPL 专线网络跨境传输。OKANC 机场出道即巅峰，属于高端机场的行列，主要面向流媒体和商务群体，对 Netflix、Disney+ 和 Youtube Premium、TikTok、ChatGPT 解锁支持度十分不错。OKANC 机场注册可免费试用，满意后再付费。  
 线路特点：IEPL 专线；广东移动入口
 **套餐价格：**
-- VIP1：￥15/月，100G流量/月。
-- VIP2：￥30/月，200G流量/月。
-- VIP3：￥60/月，400G流量/月。
+- Pro：￥46/月，328G流量/月。
+- Max：￥52/月，600G流量/月。
+- Max+：￥88/月，1024G流量/月。
 
 [OKANC 机场官网](https://clashsub.com/okanc) ｜ [OKANC 机场怎么样？](https://clashsub.com/okanc) 
 [![Totoro Cloud 龙猫云 ](https://clashsub.com/wp-content/uploads/2023/10/Totoro-Cloud-%E9%BE%99%E7%8C%AB%E4%BA%91%E6%9C%BA%E5%9C%BA-ClashSub.webp "Totoro Cloud 龙猫云 ")](https://clashsub.com/totoro) 
@@ -196,6 +196,23 @@ Tomato Cloud 是一家运营时间超过5年的老牌机场，支持 SSR、V2ray
 
 
 [飞机云官网](https://clashsub.com/feiji) ｜ [飞机云机场怎么样？](https://clashsub.com/how-about-feiji-cloud/)  
+![精灵学院机场机场官网](https://clashsub.com/wp-content/uploads/2023/12/Riolu-%E7%B2%BE%E7%81%B5%E5%AD%A6%E9%99%A2%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp)
+### 13.精灵学院机场 
+
+- SS/Reality/hysteria 多协议机场
+- 注册免费试用
+
+Riolu443 精灵学院机场是一家提供 Shadowsocks、Shadowsocks-2022、Vless+Reality、TUIC v5、hysteria（2） 多协议的翻墙机场，线路为大陆直连和国内中转加速，套餐起始价格低，可以说是一家很有性价比的机场，除了包月套餐也有不限时长按量付费提供。由于并非所有客户端都支持新协议，iOS 需使用 Shadowrocket 或 sing-box，其他平台需要使用 Clash Meta 内核客户端。精灵学院机场有定制的 EMBY 资源服务器，同时机场本身对流媒体平台的支持度也十分不错，解锁 Netflix、Disney+、TikTok 和 ChatGPT 等服务。
+**套餐价格：**
+- Iron：￥6/月，30G流量/月。
+- Copper：￥12/月，120G流量/月。
+- Silver：￥24/月，240G流量/月。
+- Gold：￥36/月，360G流量/月。
+- Platinum：￥48/月，480G流量/月。
+- Diamond：￥60/月，600G流量/月。
+
+
+[精灵学院机场官网](https://clashsub.com/riolu) ｜[精灵学院机场怎么样？](https://clashsub.com/how-about-riolu/)
 [![Nexitally 奶昔机场](https://clashnode.xyz/wp-content/uploads/2022/07/image-28.webp "Nexitally 奶昔机场")](https://clashnode.xyz/nexitally)
 ### 13.Nexitally 奶昔机场 - 2024 高端翻墙加速
 
@@ -224,7 +241,7 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 - 旗舰版：￥100/月，1000G流量/月。
 
 
-[肥猫云机场官网](https://clashsub.com/fatcat) ｜[肥猫云机场怎么样？](https://clashsub.com/fatcat)
+[肥猫云机场官网](https://clashsub.com/fatcat) ｜[肥猫云机场怎么样？](https://clashsub.com/how-about-fatcat-cloud/)
 
 ![Web3 机场](https://clashsub.com/wp-content/uploads/2023/04/WEB3VPN-%E6%9C%BA%E5%9C%BA.webp)
 ### 15.Web3VPN
