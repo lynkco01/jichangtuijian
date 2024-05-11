@@ -349,23 +349,22 @@ Gatern也叫班机机场，原名 Shuttle，是一家拥有双线负载的翻墙
 
 
 [白月光官网](https://clashnode.xyz/cn88) ｜白月光加速器怎么样？
-[![BoomCloud 机场官网](https://clashnode.xyz/wp-content/uploads/2022/08/BoomCloud.png)](/boomcloud)
-### 22.BoomCloud - 老牌翻墙机场
+[![SS-ID 机场官网](https://clashsub.com/wp-content/uploads/2024/05/SS-ID-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)](https://clashsub.com/ssid)
+### 22.SS-ID 机场
 
 - Shadowsocks 翻墙机场
-- 谷歌和苹果礼品卡福利
-- IPLC专线翻墙机场
+- 注册免费试用
+- IEPL 专线机场
 
-BoomCloud 是一家成立于2015年的翻墙机场，提供多种翻墙协议支持，IPLC内网专线不过墙，服务翻墙用户多年，稳定靠谱。除了常规包月套餐之外，BoomCloud 也有一次性流量包出售，按量付费，适合轻度翻墙者订阅。BoomCloud 年度订阅用户还可享受谷歌云盘福利、苹果礼品卡福利，针对企业有用有 Team Plan方案，详情请查看 BoomCloud 官方网页。  
+SS-ID 机场加速器是一家新晋机场，采用 Shadowsocks 专用翻墙协议，IEPL 专线节点，负载均衡，带宽冗余充足，稳定性不错，提供国内几大常用地区节点，Netflix、Disney+、TikTok、ChatGPT 全套解锁。SS-ID 机场注册可免费试用半天，3G 免费流量。
 **套餐价格：**
-- Silver 套餐：￥298每年，每月60G流量限制，30+中继线路。
-- Gold 套餐：￥408每年，每月120G流量限制，40+中继线路。
-- Paltinum 套餐：￥58/月，300G流量限制，50+中继线路。
-- Paltinum+ 套餐：￥99/月，500G流量限制，50+中继线路。
-- Diamond 套餐：￥158/月，800G流量限制，50+中继线路。
+- ￥15/月，100G流量。
+- ￥25/月，200G流量。
+- ￥35/月，300G流量。
+- ￥65/月，600G流量。
 
 
-[BoomCloud 机场官网](https://clashnode.xyz/boomcloud) ｜ [如何使用 BoomCloud 云加速？](https://clashnode.xyz/how-to-use-boomcloud-shadowsocks/)  
+[SS-ID 机场官网](https://clashsub.com/ssid) ｜ SS-ID 机场怎么样？  
  更多--[翻墙机场推荐汇总](https://clashnode.xyz/clash-nodes-providers/)
 
 ![翻墙机场常见问题](https://clashnode.xyz/wp-content/uploads/2022/08/翻墙机场常见问题.png)  
