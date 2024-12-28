@@ -260,7 +260,7 @@ Web3VPN 是一家成立于2021年下半年的翻墙机场，采用 Shadowsocks �
 - 丰富的落地节点
 - IPLC 专线网络
 
-MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowsocks 协议，国内有多个电信运营商入口，优质的 BGP 入口，IPLC 内网专线传输，有不错的流媒体解锁和 ChatGPT 支持，是一家很有实力的大机场。MESL 机场注册支持试用。
+MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowsocks 协议，国内有多个电信运营商入口，优质的 BGP 入口，IPLC 内网专线传输，有不错的流媒体解锁和 ChatGPT 支持，是一家很有实力的大机场。MESL 机场注册支持试用。  
  **套餐价格：**
 - Premium 100G：￥72/季度，100G流量/月。
 - Premium 200G：￥50/月，200G流量/月。
@@ -277,7 +277,7 @@ MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Sh
 - Trojan 翻墙机场
 - IEPL 专线机场
 
-泡泡 Dog 泡泡狗机场是一家精品小众机场，拥有多个国内入口的专线机场。泡泡狗机场采用 Shadowsocks 协议，对 Netflix、Disney+ 流媒体及 ChatGPT 解锁提供了很好的支持。泡泡狗机场有全平台的定制客户端，iOS 用户无需再单独付费购买 Shadowrocket 等第三方工具。除了包月套餐泡泡狗也有不限时长的按量付费套餐。
+泡泡 Dog 泡泡狗机场是一家精品小众机场，拥有多个国内入口的专线机场。泡泡狗机场采用 Shadowsocks 协议，对 Netflix、Disney+ 流媒体及 ChatGPT 解锁提供了很好的支持。泡泡狗机场有全平台的定制客户端，iOS 用户无需再单独付费购买 Shadowrocket 等第三方工具。除了包月套餐泡泡狗也有不限时长的按量付费套餐。  
  **套餐价格：**
 - ￥8.8/月，70G流量/月。
 - ￥12.5/月，110G流量/月。
@@ -293,7 +293,7 @@ MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Sh
 - Shadowsocks/Trojan 翻墙机场
 - 唯云专线机场
 
-Kuromis 库洛米是一家提供优质专线节点的新晋翻墙机场，支持 Shadowsocks、Trojan 多种协议，少有的唯云专线机场，和著名的 Nexitally 奶昔机场属于同一上游，稳定性出众。此外，Kuromis 库洛米也是 Netflix 、Disney+ 流媒体平台解锁支持度比较好的机场之一。  
+Kuromis 库洛米是一家提供优质专线节点的新晋翻墙机场，支持 Shadowsocks、Trojan 多种协议，少有的唯云专线机场，和著名的 Nexitally 奶昔机场属于同一上游，稳定性出众。此外，Kuromis 库洛米也是 Netflix 、Disney+ 流媒体平台解锁支持度比较好的机场之一。    
  **套餐价格：**
 - Kuromis Air：￥40/月；￥216/半年；￥384/年。50G/月，至多3个IP。
 - Kuromis Basic：￥45/月；￥243/半年；￥459/年。200G/月，至多3个IP。
@@ -341,7 +341,7 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 - 注册免费试用
 - IEPL 专线机场
 
-SS-ID 机场加速器是一家新晋机场，采用 Shadowsocks 专用翻墙协议，IEPL 专线节点，负载均衡，带宽冗余充足，稳定性不错，提供国内几大常用地区节点，Netflix、Disney+、TikTok、ChatGPT 全套解锁。SS-ID 机场注册可免费试用半天，3G 免费流量。
+SS-ID 机场加速器是一家新晋机场，采用 Shadowsocks 专用翻墙协议，IEPL 专线节点，负载均衡，带宽冗余充足，稳定性不错，提供国内几大常用地区节点，Netflix、Disney+、TikTok、ChatGPT 全套解锁。SS-ID 机场注册可免费试用半天，3G 免费流量。  
 **套餐价格：**
 - ￥15/月，100G流量。
 - ￥25/月，200G流量。
