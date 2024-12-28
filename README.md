@@ -239,38 +239,42 @@ Web3VPN 是一家成立于2021年下半年的翻墙机场，采用 Shadowsocks �
 - VIP2：￥25/月，100G流量/月。
 
 
-[Web3VPN 官网](https://clashxiazai.com/web3vpn) ｜ [Web3VPN 怎么样？](https://clashxiazai.com/how-about-web-3-vpn/)
-![最萌的云机场](https://clashxiazai.com/wp-content/uploads/2023/01/image-6.webp)
+[Web3VPN 官网](https://clashxiazai.com/web3vpn) ｜ [Web3VPN 怎么样？](https://clashxiazai.com/how-about-web-3-vpn/)  
 
-### 16.最萌の云
-- V2ray 翻墙机场
+![MESL机场](https://clashsub.net/wp-content/uploads/2023/08/MESL-Cloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)
+
+### 16.MESL Cloud
+- Shadowsocks 机场
+- 丰富的落地节点
+- IPLC 专线网络
+
+MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowsocks 协议，国内有多个电信运营商入口，优质的 BGP 入口，IPLC 内网专线传输，有不错的流媒体解锁和 ChatGPT 支持，是一家很有实力的大机场。MESL 机场注册支持试用。
+ **套餐价格：**
+- Premium 100G：￥72/季度，100G流量/月。
+- Premium 200G：￥50/月，200G流量/月。
+- Premium 300G：￥70/月，300G流量/月。
+- Premium 500G：￥110/月，500G流量/月。
+- Premium 1024G：￥210/月，1024G流量/月。
+
+
+[MESL 官网](https://clashsub.net/mesl) ｜ [MESL 机场怎么样？](https://clashsub.net/how-about-mesl/)  
+
+![泡泡狗机场](https://clashgui.com/wp-content/uploads/2023/11/%E6%B3%A1%E6%B3%A1%E7%8B%97%E6%9C%BA%E5%9C%BAPaopaoDog.webp)
+### 17.泡泡狗机场
+
 - Trojan 翻墙机场
-- 定制翻墙客户端
+- IEPL 专线机场
 
-最萌の云是一家成立于2022年中的小众机场，提供 V2ray 和 Trojan 中转和专线节点，针对 iOS 用户提供美区共享 Apple ID 和 小火箭安装下载，同时也有共享的 Netflix 奈飞账号。套餐年付有8折左右的优惠。  
+泡泡 Dog 泡泡狗机场是一家精品小众机场，拥有多个国内入口的专线机场。泡泡狗机场采用 Shadowsocks 协议，对 Netflix、Disney+ 流媒体及 ChatGPT 解锁提供了很好的支持。泡泡狗机场有全平台的定制客户端，iOS 用户无需再单独付费购买 Shadowrocket 等第三方工具。除了包月套餐泡泡狗也有不限时长的按量付费套餐。
  **套餐价格：**
-- 小杯：￥9.9/月，100G流量，限2台设备。
-- 中杯：￥19.9/月，200G流量，限5台设备。
-- 大杯：￥39.9/月，500G流量，限10台设备。
+- ￥8.8/月，70G流量/月。
+- ￥12.5/月，110G流量/月。
+- ￥20/月，210G流量/月。
+- ￥45/月，600G流量/月。
 
 
-[最萌の云官网](https://clashxiazai.com/mengyun) ｜ 最萌の云机场怎么样？
-![GODETIA CLOUD 机场](https://aijichang.com/wp-content/uploads/2023/01/GODETIA-CLOUD-%E6%9C%BA%E5%9C%BA.png)
-### 17.Godetia
+[泡泡狗机场官网](https://clashsub.net/paopao) ｜ [泡泡狗机场怎么样？]  (https://clashsub.net/how-about-paopao-dog/)  
 
-- Shadowsocks 翻墙机场
-- IPLC 精品专线机场
-
-Godetia 是一家主打精品线路的小众机场，成立于2021年，全线路采用专线网络接入，Shadowsocks 翻墙协议。Godetia 这个名字不是很好记，但其“送春花”的寓意不错。套餐价格不便宜，年付有8.4折优惠。  
- **套餐价格：**
-- Lite：￥35/月，85G流量。
-- Standard：￥55/月，185G流量。
-- Premium：￥80/月，285G流量。
-- Ultimate：￥220/月，800G流量。
-- Ultimate plus：￥350/月，1400G流量。
-
-
-[Godetia 机场官网](https://clashxiazai.com/godetia) ｜ Godetia 机场怎么样？
 [![库洛米 Kuromis 机场官网](https://clashxiazai.com/wp-content/uploads/2022/07/库洛米Clash机场.png "库洛米 Kuromis 机场官网")](https://clashxiazai.com/kuromis)
 ### 18.Kuromis 库洛米机场
 
@@ -284,7 +288,7 @@ Kuromis 库洛米是一家提供优质专线节点的新晋翻墙机场，支持
 - Kuromis Ultra：￥75/月；￥405/半年；￥765/年。500G/月，至多3个IP。
 
 
-[库洛米机场官网](/kuromis) | [库洛米机场怎么样？](https://clashxiazai.com/how-about-kuromis-cloud/) 
+[库洛米机场官网](/kuromis) | [库洛米机场怎么样？](https://clashxiazai.com/how-about-kuromis-cloud/)   
 [![CATNET 机场](https://clashsub.net/wp-content/uploads/2023/11/CATNET-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp "CATNET 机场")](https://clashsub.net/catnet)
 ### 19.CATNET - 老牌翻墙机场
 
@@ -299,7 +303,7 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 
 [CATNET 官网](https://clashsub.net/catnet) ｜ [CATNET 机场怎么样？](https://clashsub.net/how-about-catnet/)  
 
- [白月光机场加速器官网](https://clashxiazai.com/wp-content/uploads/2022/12/白月光加速器-BYG.png "白月光机场加速器官网")
+ ![白月光机场加速器官网](https://clashxiazai.com/wp-content/uploads/2022/12/白月光加速器-BYG.png "白月光机场加速器官网")
 ### 20.白月光机场
 
 - IEPL 翻墙机场
@@ -317,6 +321,7 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 
 
 [白月光官网](https://clashxiazai.com/cn88) ｜[月光加速器怎么样？](https://clashsub.net/how-about-byg-cloud/)  
+
 [![SS-ID 机场官网](https://clashsub.net/wp-content/uploads/2024/05/SS-ID-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)](https://clashsub.net/ssid)
 ### 21.SS-ID 机场
 
@@ -334,7 +339,7 @@ SS-ID 机场加速器是一家新晋机场，采用 Shadowsocks 专用翻墙协�
 
 [SS-ID 机场官网](https://clashsub.net/ssid) ｜ [SS-ID 机场怎么样？](https://clashsub.net/how-about-ssid-cloud/)  
   
-
+  
       
  更多--[翻墙机场推荐汇总](https://clashxiazai.com/clash-nodes-providers/)
 
