@@ -173,21 +173,21 @@ NaiU 机场 Naiu Net，海外团队运营机场，正常节点IEPL专线接入�
 
 [Naiu 机场官网](https://clashsub.net/naiu) ｜ [Naiu 机场怎么样？](https://clashsub.net/how-about-naiu-net/)
 
-![tomato cloud 机场官网](https://clashxiazai.com/wp-content/uploads/2023/01/tomato-cloud-机场官网.png)
-### 11.Tomato Cloud - 老牌中转机场
+![BoostNet 机场官网](https://clashsub.net/wp-content/uploads/2024/04/Boost-Net-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)
+### 11.BoostNet 机场
 
-- SSR/V2ray 翻墙机场
-- 中转/IPLC 专线
+- SS 翻墙机场
+- IEPL 专线
 
-Tomato Cloud 是一家运营时间超过5年的老牌机场，支持 SSR、V2ray 协议，少量节点采用 Trojan 协议，全中转节点。Tomato Cloud 还拥有针对新手的定制客户端，支持 Windows 和安卓系统，对 Netflix、Disney+ 流媒体解锁服务也还不错。  
+Boost Net 机场属于高端机场之一，提供 50+ 深港 IEPL 专线节点，Shadowsocks 翻墙节点，主打精品稳定，对 Netflix、Disney+ 流媒体解锁支持度也很好。新用户注册 Boost Net 可领取 8 折优惠，优惠码：boost   
  **套餐价格：**
- - Basic：$48/年，128G流量/月。
-- Plus：$78/年，256G流量/月。
-- Pro：$120/年，512G流量/月。
-- Business：$240/年，1024G流量/月。
+- ￥39/月，200G流量/月。
+- ￥58/月，400G流量/月。
+- ￥108/月，1000G流量/月。
+- ￥500/月，3000G流量/月。
 
 
-[TomatoCloud 官网](https://clashxiazai.com/tomatocloud) ｜ [TomatoCloud 怎么样？](https://clashsub.net/how-about-tomatocloud/)
+[BoostNet 官网](https://clashsub.net/boostnet) ｜ [BoostNet 机场怎么样？](https://clashsub.net/how-about-boost-net/)
 
 ![精灵学院机场机场官网](https://clashsub.net/wp-content/uploads/2023/12/Riolu-%E7%B2%BE%E7%81%B5%E5%AD%A6%E9%99%A2%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp)
 ### 12.精灵学院机场 
