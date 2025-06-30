@@ -25,7 +25,7 @@ WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采�
 - 精品专线：月付：￥79/月，180G流量/月。季付：￥228/季，240G流量/月。年付：￥828/年，320G流量/月。
 
 
-[WgetCloud 机场官网](https://clashsub.net/wgetcloud) ｜ [WgetCloud 全球加速怎么样？](https://clashsub.net/how-about-gacloud-vpn/)
+[WgetCloud 机场官网](https://clashsub.net/wgetcloud) ｜ [WgetCloud 全球加速怎么样？](https://github.com/lynkco01/WgetCloud)
 
 [![悠兔机场官网 ](https://clashsub.net/wp-content/uploads/2023/10/%E6%82%A0%E5%85%94%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-2.webp "悠兔机场官网 ")](https://clashsub.net/youtu) 
 ### 2.悠兔机场
