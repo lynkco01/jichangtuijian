@@ -344,17 +344,16 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 [![椰皮机场官网 ](https://clashsub.net/wp-content/uploads/2025/04/YepFast-%E6%A4%B0%E7%9A%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%9C%BAVPN.webp "椰皮加速机场 ")](https://clashsub.net/yepfast) 
 ### 21.YepFast 机场
 - Shadowsocks 机场
-- 性价比中转机场
-- 注册免费试用
+- 性价比中转机场  
 
-YepFast 椰皮加速机场是一家提供 Shadowsocks 加速协议的翻墙机场，线路为内中转加速，套餐起始价格低，提供多个国家和地区的家庭宽带 IP 节点，有 YouTube 免广告节点，整体而言很有性价比的机场，同时机场本身对流媒体平台的支持度也十分不错，解锁 Netflix、Disney+、TikTok 和 ChatGPT 等服务。  
+YepFast 椰皮加速机场是一家提供 Shadowsocks 加速协议的翻墙机场，中转加速线路，2025 年全节点升级 IEPL 专线网络，套餐起始价格低，提供多个国家和地区的家庭宽带 IP 节点，有 YouTube 免广告节点，整体而言很有性价比的机场，同时机场本身对流媒体平台的支持度也十分不错，解锁 Netflix、Disney+、TikTok 和 ChatGPT 等服务。  
 
-线路特点：公网隧道；广东移动多组入口  
+线路特点：IEPL 专线；广东移动多组入口    
 **套餐价格：**
-- 椰皮 Lv.1：￥11.9/月，160G流量/月。30+节点。
-- 椰汁 Lv.2：￥19.9/月，280G流量/月。40+节点。
-- 椰肉 Lv.3：￥39.9/月，580G流量/月。40+节点。
-- 椰果 Lv.4：￥59.9/月，880G流量/月。40+节点。
+- LV1 LITE：￥14.9/月，150G流量/月。30+节点。
+- LV2 PLUS：￥29.9/月，300G流量/月。40+节点。
+- LV3 PRO：￥44.9/月，450G流量/月。40+节点。
+- LV4 MAX：￥59.9/月，600G流量/月。40+节点。
 
 [椰皮加速机场](https://clashsub.net/yepfast) ｜ [椰皮加速机场怎么样？](https://clashsub.net/how-about-yepfast-cloud/)  
  
