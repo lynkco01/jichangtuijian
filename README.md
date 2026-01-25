@@ -1,22 +1,22 @@
 # 2026 翻墙机场推荐
-2026 年流行的翻墙机场推荐，机场梯子适合已经翻墙很久，掌握了一些翻墙知识的同学。机场一般采用专用的翻墙协议，如 Shadowsocks、ShadowsocksR、V2ray（Vmess）、Trojan 等， 适配于 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2rayN、Surfboard 等多种客户端。翻墙机场**不是VPN，但胜过VPN。**![Clash 翻墙机场推荐](https://clashsub.net/wp-content/uploads/2023/05/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-4.webp)  
+2026 年流行的翻墙机场推荐，机场梯子适合已经翻墙很久，掌握了一些翻墙知识的同学。机场一般采用专用的翻墙协议，如 Shadowsocks、ShadowsocksR、V2ray（Vmess）、Trojan 等， 适配于 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2rayN、Surfboard 等多种客户端。翻墙机场**不是VPN，但胜过VPN。**![Clash 翻墙机场推荐](https://clashsubs.com/wp-content/uploads/2023/05/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-4.webp)  
 翻墙机场不同于一键VPN，采用针对GFW开发的翻墙协议，在速度和稳定性方面表现十分优异。需要注册账号**购买订阅**并搭配**第三方软件**使用，下面是各常用平台翻墙软件安装地址。 *注意：你个人的订阅链接中包含连接信息，等同于账号密码，切记不要泄露。若发现自己的订阅套餐流量异常，请即时前往机场网站重置订阅链接。*
 
 - Windows ：[Clash for Windows](https://clashforwindows.me/)
 - macOS：[ClashX](https://clashmac.com/)
 - 安卓：[Clash for Android](https://clashandroid.com/)
-- iOS：[Stash - Clash for iOS](https://clashsub.net/clash-for-ios-two-apps/)
+- iOS：[Stash - Clash for iOS](https://clashsubs.com/clash-for-ios-two-apps/)
 
 2026 好用的翻墙机场 - SS/SSR/V2ray/Trojan 协议梯子
 ---------------------------------------
 
-ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 ![WgetCloud 机场官网](https://clashsub.net/wp-content/uploads/2023/10/WgetCloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)  
+ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 ![WgetCloud 机场官网](https://clashsubs.com/wp-content/uploads/2023/10/WgetCloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)  
 ### 1.WgetCloud 全球加速 - 2026 稳定翻墙机场首选
 
 - 2026 稳定翻墙机场推荐
 - Trojan 协议机场
 - 高端专线翻墙机场
-- [新用户注册8折优惠](https://clashsub.net/wgetcloud)
+- [新用户注册8折优惠](https://clashsubs.com/wgetcloud)
 
 WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采用国内优质服务器接入，亚马逊 Global Accelerator 专线加速。WgetCloud 由海外团队运作，除了支持常见的 Shadowsocks 协议外，也支持 V2ray、SSR 和 Trojan 协议，套餐价格相对偏贵，属于高端翻墙机场，适合追求极致稳定的翻墙用户，如外贸工作、开发人员使用。支持定制套餐，重度翻墙用户或团队用户可在官网「增值服务」中进行流量和设备数量自定义套餐。套餐定制也支持流量包和限时1年时长的按量付费套餐。  
 **套餐价格：**
@@ -25,10 +25,10 @@ WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采�
 - 精品专线：月付：￥79/月，180G流量/月。季付：￥228/季，240G流量/月。年付：￥828/年，320G流量/月。
 
 
-[WgetCloud 机场官网](https://clashsub.net/wgetcloud) ｜ [WgetCloud 全球加速怎么样？](https://github.com/lynkco01/WgetCloud)
+[WgetCloud 机场官网](https://clashsubs.com/wgetcloud) ｜ [WgetCloud 全球加速怎么样？](https://github.com/lynkco01/WgetCloud)
 
 
-![SSRDOG 机场官网](https://clashsub.net/wp-content/uploads/2023/01/image-7.webp)
+![SSRDOG 机场官网](https://clashsubs.com/wp-content/uploads/2023/01/image-7.webp)
 ### 2.SSRDOG 机场 - 2026 稳定专线机场
 
 - V2ray 翻墙机场
@@ -42,11 +42,11 @@ SSRDOG 是一家运营始于2022年的翻墙机场，采用V2ray安全协议，�
 - 企业套餐：￥75/月，850G流量，限速1000Mbps。
 
 
-[SSRDOG 机场官网](https://clashsub.net/ssrdog) ｜[SSRDOG 机场怎么样？](https://clashsub.net/how-about-ssrdog-cloud/)  
+[SSRDOG 机场官网](https://clashsubs.com/ssrdog) ｜[SSRDOG 机场怎么样？](https://clashsubs.com/how-about-ssrdog-cloud/)  
 
 
 
-[![Totoro Cloud 龙猫云 ](https://clashsub.net/wp-content/uploads/2023/10/Totoro-Cloud-%E9%BE%99%E7%8C%AB%E4%BA%91%E6%9C%BA%E5%9C%BA-ClashSub.webp "Totoro Cloud 龙猫云 ")](https://clashsub.net/totoro) 
+[![Totoro Cloud 龙猫云 ](https://clashsubs.com/wp-content/uploads/2023/10/Totoro-Cloud-%E9%BE%99%E7%8C%AB%E4%BA%91%E6%9C%BA%E5%9C%BA-ClashSub.webp "Totoro Cloud 龙猫云 ")](https://clashsubs.com/totoro) 
 ### 3.龙猫云机场 — 2026 性价比专线
 - Shadowsocks 机场
 - IPLC专线翻墙机场
@@ -58,9 +58,9 @@ Totoro Cloud 龙猫云是一家低调的专线机场，海外团队运营，Shad
 - VIP2：￥30/月，200G流量/月。
 - VIP3：￥60/月，400G流量/月。
 
-[龙猫云机场官网](https://clashsub.net/totoro) ｜ [龙猫云机场怎么样？](https://clashsub.net/how-about-totoro-cloud/)  
+[龙猫云机场官网](https://clashsubs.com/totoro) ｜ [龙猫云机场怎么样？](https://clashsubs.com/how-about-totoro-cloud/)  
 
-[![一云梯机场官网 ](https://clashsub.net/wp-content/uploads/2024/04/%E4%B8%80%E4%BA%91%E6%A2%AF%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-clash%E6%9C%BA%E5%9C%BA.webp "一云梯机场 ")](https://clashsub.net/1yt) 
+[![一云梯机场官网 ](https://clashsubs.com/wp-content/uploads/2024/04/%E4%B8%80%E4%BA%91%E6%A2%AF%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-clash%E6%9C%BA%E5%9C%BA.webp "一云梯机场 ")](https://clashsubs.com/1yt) 
 ### 4.一云梯机场
 - 稳定专线机场
 - Trojan 节点订阅
@@ -74,9 +74,9 @@ Totoro Cloud 龙猫云是一家低调的专线机场，海外团队运营，Shad
 - VIP3：￥60/月，400G流量/月。
 - VIP4：￥120/月，1000G流量/月。
 
-[一云梯机场](https://clashsub.net/1yt) ｜ [一云梯机场怎么样？](https://clashsub.net/how-about-yiyunti/)  
+[一云梯机场](https://clashsubs.com/1yt) ｜ [一云梯机场怎么样？](https://clashsubs.com/how-about-yiyunti/)  
 
-[![桔子云机场官网 ](https://clashsub.net/wp-content/uploads/2023/11/%E6%A1%94%E5%AD%90%E4%BA%91%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp "桔子云机场官网 ")](https://clashsub.net/juzicloud)
+[![桔子云机场官网 ](https://clashsubs.com/wp-content/uploads/2023/11/%E6%A1%94%E5%AD%90%E4%BA%91%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp "桔子云机场官网 ")](https://clashsubs.com/juzicloud)
 
 ### 5.桔子云 - 便宜老牌翻墙机场
 
@@ -93,7 +93,7 @@ Totoro Cloud 龙猫云是一家低调的专线机场，海外团队运营，Shad
 - 旗舰版：￥99/月，1200G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。
 
 
-[橘子云官网](https://clashsub.net/juzicloud) ｜ [桔子云机场怎么样？](https://clashsub.net/how-about-juzi-cloud/)  
+[橘子云官网](https://clashsubs.com/juzicloud) ｜ [桔子云机场怎么样？](https://clashsubs.com/how-about-juzi-cloud/)  
 
 [![闪电猫 SpeedCAT 机场官网 ](https://clashxiazai.com/wp-content/uploads/2023/04/SpeedCAT-%E9%97%AA%E7%94%B5%E7%8C%AB%E6%9C%BA%E5%9C%BA.webp "闪电猫 SpeedCAT 机场官网 ")](https://clashxiazai.com/speedcat)
 ### 6.SpeedCAT 闪电猫机场
@@ -110,7 +110,7 @@ Totoro Cloud 龙猫云是一家低调的专线机场，海外团队运营，Shad
 - 雷神猫：¥159/月，650G流量/月，不限速，限15台设备。¥859/半年。¥1529/年。
 
 
-[闪电猫机场官网](https://clashxiazai.com/speedcat) ｜ [闪电猫机场怎么样？](https://clashsub.net/how-about-speedcat/)  
+[闪电猫机场官网](https://clashxiazai.com/speedcat) ｜ [闪电猫机场怎么样？](https://clashsubs.com/how-about-speedcat/)  
 
 [![速云梯VPN机场](https://clashxiazai.com/wp-content/uploads/2022/10/速云梯VPN机场.png "速云梯VPN机场")](https://clashxiazai.com/SUYUNTI)
 ### 7.速云梯 - 2026 便宜翻墙机场
@@ -145,7 +145,7 @@ FlyingBird 飞鸟机场是一家新晋 Shadowsocks 翻墙服务商，采用国�
 [FlyingBird 官网](https://clashxiazai.com/flyingbird) ｜ [FlyingBird 飞鸟机场怎么样？](https://clashxiazai.com/flyingbird)  
 
 
-![BoostNet 机场官网](https://clashsub.net/wp-content/uploads/2024/04/Boost-Net-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)
+![BoostNet 机场官网](https://clashsubs.com/wp-content/uploads/2024/04/Boost-Net-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)
 ### 9.BoostNet 机场
 
 - SS 翻墙机场
@@ -159,10 +159,10 @@ Boost Net 机场属于高端机场之一，提供 50+ 深港 IEPL 专线节点�
 - ￥500/月，3000G流量/月。
 
 
-[BoostNet 官网](https://clashsub.net/boostnet) ｜ [BoostNet 机场怎么样？](https://clashsub.net/how-about-boost-net/)  
+[BoostNet 官网](https://clashsubs.com/boostnet) ｜ [BoostNet 机场怎么样？](https://clashsubs.com/how-about-boost-net/)  
 
 
-![肥猫云机场官网](https://clashsub.net/wp-content/uploads/2024/03/FATCAT-%E8%82%A5%E7%8C%AB%E4%BA%91%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-clashsub.webp)
+![肥猫云机场官网](https://clashsubs.com/wp-content/uploads/2024/03/FATCAT-%E8%82%A5%E7%8C%AB%E4%BA%91%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-clashsub.webp)
 ### 10.FATCAT 肥猫云机场 
 
 - Shadowsocks机场
@@ -176,9 +176,9 @@ Boost Net 机场属于高端机场之一，提供 50+ 深港 IEPL 专线节点�
 - 旗舰版：￥100/月，1000G流量/月。
 
 
-[肥猫云机场官网](https://clashsub.net/fatcat) ｜[肥猫云机场怎么样？](https://clashsub.net/how-about-fatcat-cloud/)  
+[肥猫云机场官网](https://clashsubs.com/fatcat) ｜[肥猫云机场怎么样？](https://clashsubs.com/how-about-fatcat-cloud/)  
 
-![精灵学院机场机场官网](https://clashsub.net/wp-content/uploads/2023/12/Riolu-%E7%B2%BE%E7%81%B5%E5%AD%A6%E9%99%A2%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp)
+![精灵学院机场机场官网](https://clashsubs.com/wp-content/uploads/2023/12/Riolu-%E7%B2%BE%E7%81%B5%E5%AD%A6%E9%99%A2%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp)
 ### 11.精灵学院机场 
 
 - VLESS/AnyTLS 多协议机场
@@ -192,7 +192,7 @@ Riolu443 精灵学院机场是一家提供 VLESS 协议的翻墙机场，目前�
 - Diamond：￥75/月，700G流量/月。
 
 
-[精灵学院机场官网](https://clashsub.net/riolu) ｜[精灵学院机场怎么样？](https://clashsub.net/how-about-riolu/)  
+[精灵学院机场官网](https://clashsubs.com/riolu) ｜[精灵学院机场怎么样？](https://clashsubs.com/how-about-riolu/)  
 
 [![Nexitally 奶昔机场](https://clashxiazai.com/wp-content/uploads/2022/07/image-28.webp "Nexitally 奶昔机场")](https://clashxiazai.com/nexitally)
 ### 12.Nexitally 奶昔机场 - 2026 高端翻墙加速
@@ -211,7 +211,7 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 
 
 
-[![悠兔机场官网 ](https://clashsub.net/wp-content/uploads/2023/10/%E6%82%A0%E5%85%94%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-2.webp "悠兔机场官网 ")](https://clashsub.net/youtu) 
+[![悠兔机场官网 ](https://clashsubs.com/wp-content/uploads/2023/10/%E6%82%A0%E5%85%94%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-2.webp "悠兔机场官网 ")](https://clashsubs.com/youtu) 
 ### 13.悠兔机场
 - Shadowsocks 机场
 - IPLC专线翻墙机场
@@ -223,9 +223,9 @@ Nexitally 奶昔机场是一家成立于2017年的翻墙机场，支持 Shadowso
 - 高级套餐：￥50/月，500G流量。
 - 至尊套餐：￥100/月，1000G流量。
 
-[悠兔机场官网](https://clashsub.net/youtu) ｜ [悠兔机场怎么样？](https://clashsub.net/how-about-youtu-cloud/)  
+[悠兔机场官网](https://clashsubs.com/youtu) ｜ [悠兔机场怎么样？](https://clashsubs.com/how-about-youtu-cloud/)  
 
-[![SS-ID 机场官网](https://clashsub.net/wp-content/uploads/2024/05/SS-ID-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)](https://clashsub.net/ssid)
+[![SS-ID 机场官网](https://clashsubs.com/wp-content/uploads/2024/05/SS-ID-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-ClashSub.webp)](https://clashsubs.com/ssid)
 ### 14.SS-ID 机场
 
 - Shadowsocks 翻墙机场
@@ -240,10 +240,10 @@ SS-ID 机场加速器是一家新晋机场，采用 Shadowsocks 专用翻墙协�
 - ￥65/月，600G流量。
 
 
-[SS-ID 机场官网](https://clashsub.net/ssid) ｜ [SS-ID 机场怎么样？](https://clashsub.net/how-about-ssid-cloud/)  
+[SS-ID 机场官网](https://clashsubs.com/ssid) ｜ [SS-ID 机场怎么样？](https://clashsubs.com/how-about-ssid-cloud/)  
 
 
-![Web3 机场](https://clashsub.net/wp-content/uploads/2023/04/WEB3VPN-%E6%9C%BA%E5%9C%BA.webp)
+![Web3 机场](https://clashsubs.com/wp-content/uploads/2023/04/WEB3VPN-%E6%9C%BA%E5%9C%BA.webp)
 ### 15.Web3VPN
 
 - Shadowsocks 翻墙机场
@@ -258,7 +258,7 @@ Web3VPN 是一家成立于2021年下半年的翻墙机场，采用 Shadowsocks �
 
 [Web3VPN 官网](https://clashxiazai.com/web3vpn) ｜ [Web3VPN 怎么样？](https://clashxiazai.com/how-about-web-3-vpn/)  
 
-![MESL机场](https://clashsub.net/wp-content/uploads/2023/08/MESL-Cloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)
+![MESL机场](https://clashsubs.com/wp-content/uploads/2023/08/MESL-Cloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)
 
 ### 16.MESL Cloud
 - Shadowsocks 机场
@@ -274,7 +274,7 @@ MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Sh
 - Premium 1024G：￥210/月，1024G流量/月。
 
 
-[MESL 官网](https://clashsub.net/mesl) ｜ [MESL 机场怎么样？](https://clashsub.net/how-about-mesl/)  
+[MESL 官网](https://clashsubs.com/mesl) ｜ [MESL 机场怎么样？](https://clashsubs.com/how-about-mesl/)  
 
 ![泡泡狗机场](https://clashgui.com/wp-content/uploads/2023/11/%E6%B3%A1%E6%B3%A1%E7%8B%97%E6%9C%BA%E5%9C%BAPaopaoDog.webp)
 ### 17.泡泡狗机场
@@ -290,7 +290,7 @@ MESL Cloud 机场是一家创立于 2022 年的新晋机场服务商，采用 Sh
 - ￥45/月，600G流量/月。
 
 
-[泡泡狗机场官网](https://clashsub.net/paopao) ｜ [泡泡狗机场怎么样？](https://clashsub.net/how-about-paopao-dog/)  
+[泡泡狗机场官网](https://clashsubs.com/paopao) ｜ [泡泡狗机场怎么样？](https://clashsubs.com/how-about-paopao-dog/)  
 
 [![库洛米 Kuromis 机场官网](https://clashxiazai.com/wp-content/uploads/2022/07/库洛米Clash机场.png "库洛米 Kuromis 机场官网")](https://clashxiazai.com/kuromis)
 ### 18.Kuromis 库洛米机场
@@ -307,7 +307,7 @@ Kuromis 库洛米是一家提供优质专线节点的新晋翻墙机场，支持
 
 [库洛米机场官网](/kuromis) | [库洛米机场怎么样？](https://clashxiazai.com/how-about-kuromis-cloud/)   
 
-[![CATNET 机场](https://clashsub.net/wp-content/uploads/2023/11/CATNET-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp "CATNET 机场")](https://clashsub.net/catnet)
+[![CATNET 机场](https://clashsubs.com/wp-content/uploads/2023/11/CATNET-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp "CATNET 机场")](https://clashsubs.com/catnet)
 ### 19.CATNET - 老牌翻墙机场
 
 - 老牌翻墙机场
@@ -319,7 +319,7 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 - 进阶订阅：￥50/月，300G流量。
 
 
-[CATNET 官网](https://clashsub.net/catnet) ｜ [CATNET 机场怎么样？](https://clashsub.net/how-about-catnet/)  
+[CATNET 官网](https://clashsubs.com/catnet) ｜ [CATNET 机场怎么样？](https://clashsubs.com/how-about-catnet/)  
 
  ![白月光机场加速器官网](https://clashxiazai.com/wp-content/uploads/2022/12/白月光加速器-BYG.png "白月光机场加速器官网")
 ### 20.白月光机场
@@ -338,10 +338,10 @@ CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云�
 - 旗舰包：￥2500/年，2.5T流量/月。
 
 
-[白月光官网](https://clashxiazai.com/cn88) ｜[月光加速器怎么样？](https://clashsub.net/how-about-byg-cloud/)  
+[白月光官网](https://clashxiazai.com/cn88) ｜[月光加速器怎么样？](https://clashsubs.com/how-about-byg-cloud/)  
 
 
-[![椰皮机场官网 ](https://clashsub.net/wp-content/uploads/2025/04/YepFast-%E6%A4%B0%E7%9A%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%9C%BAVPN.webp "椰皮加速机场 ")](https://clashsub.net/yepfast) 
+[![椰皮机场官网 ](https://clashsubs.com/wp-content/uploads/2025/04/YepFast-%E6%A4%B0%E7%9A%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%9C%BAVPN.webp "椰皮加速机场 ")](https://clashsubs.com/yepfast) 
 ### 21.YepFast 机场
 - Shadowsocks 机场
 - 性价比中转机场  
@@ -355,10 +355,10 @@ YepFast 椰皮加速机场是一家提供 Shadowsocks 加速协议的翻墙机�
 - LV3 PRO：￥44.9/月，450G流量/月。40+节点。
 - LV4 MAX：￥59.9/月，600G流量/月。40+节点。
 
-[椰皮加速机场](https://clashsub.net/yepfast) ｜ [椰皮加速机场怎么样？](https://clashsub.net/how-about-yepfast-cloud/)  
+[椰皮加速机场](https://clashsubs.com/yepfast) ｜ [椰皮加速机场怎么样？](https://clashsubs.com/how-about-yepfast-cloud/)  
  
 
-[![OKANC 机场官网 ](https://clashsub.net/wp-content/uploads/2024/12/OKANC-%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.webp "OKANC 机场推荐 ")](https://clashsub.net/okanc) 
+[![OKANC 机场官网 ](https://clashsubs.com/wp-content/uploads/2024/12/OKANC-%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.webp "OKANC 机场推荐 ")](https://clashsubs.com/okanc) 
 
 ### 22.OKANC 机场
 - Shadowsocks 机场
@@ -372,7 +372,7 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 - Max：￥52/月，600G流量/月。
 - Max+：￥88/月，1024G流量/月。
 
-[OKANC 机场官网](https://clashsub.net/okanc) ｜ [OKANC 机场怎么样？](https://clashsub.net/okanc)  
+[OKANC 机场官网](https://clashsubs.com/okanc) ｜ [OKANC 机场怎么样？](https://clashsubs.com/okanc)  
   
   
       
@@ -417,7 +417,7 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 
 ## 尽量备用多个翻墙工具
 
-不同的翻墙机场应对中国防火墙的力度不同，为了防止购买的机场VPN被完全封锁而导致无法顺利翻墙出海，[ClashSub](https://clashsub.net/)博客建议购买备用翻墙服务，或者将一些翻墙服务的免翻墙地址收藏到本地。一般而言，只有一个翻墙机场是不足以应付伟大的防火长城的，特别是遇上一些敏感时期。  
+不同的翻墙机场应对中国防火墙的力度不同，为了防止购买的机场VPN被完全封锁而导致无法顺利翻墙出海，[ClashSub](https://clashsubs.com/)博客建议购买备用翻墙服务，或者将一些翻墙服务的免翻墙地址收藏到本地。一般而言，只有一个翻墙机场是不足以应付伟大的防火长城的，特别是遇上一些敏感时期。  
 收藏梯子，当然是多多益善，Clash Sub 分享的机场数量不多，如果想要直接搜藏海量机场库，可以订阅 Telegram 上的各个频道，访问[爱机场](https://aijichang.com/)博客这个机场推荐与评测网站。
 ### 善用翻墙机场客服和官网帮助文档
 
