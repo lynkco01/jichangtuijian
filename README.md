@@ -32,11 +32,11 @@ WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采�
 ![SSRDOG 机场官网](https://clashsubs.com/wp-content/uploads/2023/01/image-7.webp)
 ### 2.SSRDOG 机场 - 2026 稳定专线机场
 
-- V2ray 翻墙机场
+- SS 翻墙机场
 - IPLC/IEPL 专线机场
 - 9折优惠码：[999](https://clashxiazai.com/ssrdog)
 
-SSRDOG 是一家运营始于2022年的翻墙机场，采用V2ray安全协议，线路有 IEPL 和 IPLC 专线，对 Netflix、Disney+ 流媒体解锁支持度也很好。SSRDOG 机场有定制的一键翻墙VPN客户端，支持安卓、Mac 和 Windows 。iOS 用户推荐使用 Clash for iOS - Stash 代理软件。SSRDOG 机场注册可[免费试用](https://clashxiazai.com/ssrdog)，除了常规包月套餐外，也有不限时长的按量付费流量包套餐，套餐年付均有优惠。  
+SSRDOG 是一家运营始于2022年的翻墙机场，采用成熟的 Shadowsocks 加密协议，线路有 IEPL 和 IPLC 专线，对 Netflix、Disney+ 流媒体解锁支持度也很好。SSRDOG 机场有定制的一键翻墙VPN客户端，支持安卓、Mac 和 Windows 。iOS 用户推荐使用 Clash for iOS - Stash 代理软件。SSRDOG 机场注册可[免费试用](https://clashxiazai.com/ssrdog)，除了常规包月套餐外，也有不限时长的按量付费流量包套餐，套餐年付均有优惠。  
  **套餐价格：**
 - 轻量套餐：￥25/月，150G流量，限速300Mbps。
 - 标准套餐：￥35/月，300G流量，限速500Mbps。
@@ -411,9 +411,9 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 
 客户端的选择依赖于翻墙者选择什么样的翻墙服务。如果是选择一键翻墙VPN服务，那么只能使用他们官方的应用程序的对应版本。如果选择翻墙机场，能够选择的客户端就很多了，下面分不同的操作系统列举一下。  
  **iPhone 翻墙客户端**  
- 目前iOS系统上最流行的翻墙软件非小火箭莫属了，小火箭英文为 Shadowrocket，售价2.99美元，中国区App Store 无法下载。想要在iPhone上使用小火箭，需要通过非中国区Apple ID购买，这个Apple ID我们可以自己注册，也可以通过第三方网站购买成品账号。不建议从淘宝购买，因为遇到黑卡的概率很大，可能会导致账号被封锁。 Stash 即[ Clash for iOS](https://clashforios.com/) 售价3.99美元，使用同样简单，支持一键导入和手动导入。更多 iOS 翻墙代理软件请自行谷歌研究。  
+ 目前iOS系统上最流行的翻墙软件非小火箭莫属了，小火箭英文为 Shadowrocket，售价2.99美元，中国区App Store 无法下载。想要在iPhone上使用小火箭，需要通过非中国区Apple ID购买，这个Apple ID我们可以自己注册，也可以通过第三方网站购买成品账号。不建议从淘宝购买，因为遇到黑卡的概率很大，可能会导致账号被封锁。 Stash 即[ Clash for iOS](https://clashforios.com/) 售价5.99美元，使用同样简单，支持 Clash 内核的一键导入和订阅链接手动导入，也可跨设备扫描二维码导入。更多 iOS 翻墙代理软件请自行谷歌研究。  
   **安卓手机翻墙客户端**  
-  安卓手机比较流行的几个代理软件有 Clash、Surfboard 和 v2rayNG。一般选择翻墙机场，那么最推荐使用Clash，直接导入订阅链接即可使用，Clash软件简单易用，且比较美观。如果你是自建翻墙节点，选择 v2rayNG 或 NekoBox可能更为方便，可以通过二维码或SS/V2ray/Trojan 链接直接导入。  
+  安卓手机比较流行的几个代理软件有 Clash、Surfboard 和 v2rayNG。一般选择翻墙机场，那么最推荐使用 Clash，直接导入订阅链接即可使用，Clash软件简单易用，且比较美观。如果你是自建翻墙节点，选择 v2rayNG 或 NekoBox可能更为方便，可以通过二维码或SS/V2ray/Trojan 链接直接导入。  
    **电脑翻墙客户端**  
    不管是Windows还是macOS系统，最流行的都是 Clash，只是不同平台的Clash由不同开发者提供，所以名字也不太一样，同样使用机场的订阅链接导入即可使用。Windows 系统上，翻墙者最喜欢使用 Clash for Windows，新上线的 Clash Verge 也是不错的选择。在macOS系统上，翻墙者最喜欢使用的是 ClashX。  
 [翻墙客户端下载地址汇总](https://clashxiazai.com/clash-download/)
