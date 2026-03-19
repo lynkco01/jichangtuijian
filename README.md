@@ -93,7 +93,8 @@ SSRDOG 是一家运营始于2022年的翻墙机场，采用成熟的 Shadowsocks
 
 
 [闪电猫机场官网](https://clashxiazai.com/speedcat) ｜ [闪电猫机场怎么样？](https://clashsubs.com/how-about-speedcat/)  
-[![鹿语云机场](https://clashsubs.com/wp-content/uploads/2025/03/%E9%B9%BF%E8%AF%AD%E4%BA%91%E6%9C%BA%E5%9C%BA-LUYUYUN-ClashSub.webp"CATNET 机场")](https://clashsubs.com/luyuyun)
+
+[![鹿语云机场](https://clashsubs.com/wp-content/uploads/2025/03/%E9%B9%BF%E8%AF%AD%E4%BA%91%E6%9C%BA%E5%9C%BA-LUYUYUN-ClashSub.webp "鹿语云机场")](https://clashsubs.com/luyuyun)
 ### 6.鹿语云机场
 
 - 新兴专线翻墙机场
