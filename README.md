@@ -355,25 +355,9 @@ YepFast 椰皮加速机场是一家提供 Shadowsocks 加速协议的翻墙机�
 
 
 
-[![OKANC 机场官网 ](https://clashsubs.com/wp-content/uploads/2024/12/OKANC-%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.webp "OKANC 机场推荐 ")](https://clashsubs.com/okanc)
-
-### 21.OKANC 机场
-- Shadowsocks 机场
-- BGP 入口专线机场
-- 注册免费试用
-
-OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外团队运营，翻墙协议采用流行的 Shadowsocks 协议，国内采用 BGP 服务器入口，IEPL 专线网络跨境传输。OKANC 机场出道即巅峰，属于高端机场的行列，主要面向流媒体和商务群体，对 Netflix、Disney+ 和 Youtube Premium、TikTok、ChatGPT 解锁支持度十分不错。OKANC 机场注册可免费试用，满意后再付费。  
-线路特点：IEPL 专线；广东移动入口  
-**套餐价格：**
-- Pro：￥46/月，328G流量/月。
-- Max：￥52/月，600G流量/月。
-- Max+：￥88/月，1024G流量/月。
-
-[OKANC 机场官网](https://clashsubs.com/okanc) ｜ [OKANC 机场怎么样？](https://clashsubs.com/okanc)  
-
 [![桔子云机场官网 ](https://clashsubs.com/wp-content/uploads/2023/11/%E6%A1%94%E5%AD%90%E4%BA%91%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp "桔子云机场官网 ")](https://clashsubs.com/juzicloud)
 
-### 22.桔子云
+### 20.桔子云
 
 - 老牌翻墙机场
 - 稳定中转机场
@@ -391,7 +375,7 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 [橘子云官网](https://clashsubs.com/juzicloud) ｜ [桔子云机场怎么样？](https://clashsubs.com/how-about-juzi-cloud/)  
 
 ![泡泡狗机场](https://clashgui.com/wp-content/uploads/2023/11/%E6%B3%A1%E6%B3%A1%E7%8B%97%E6%9C%BA%E5%9C%BAPaopaoDog.webp)
-### 23.泡泡狗机场
+### 21.泡泡狗机场
 
 - Trojan 翻墙机场
 - IEPL 专线机场
@@ -407,7 +391,7 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 [泡泡狗机场官网](https://clashsubs.com/paopao) ｜ [泡泡狗机场怎么样？](https://clashsubs.com/how-about-paopao-dog/)  
 
 [![速云梯VPN机场](https://clashxiazai.com/wp-content/uploads/2022/10/速云梯VPN机场.png "速云梯VPN机场")](https://clashxiazai.com/SUYUNTI)
-### 24.速云梯 - 2026 便宜翻墙机场
+### 22.速云梯 - 2026 便宜翻墙机场
 
 - 稳定中转机场
 - IPLC专线翻墙机场
@@ -423,19 +407,7 @@ OKANC 是一家创立于 2023 年的新晋机场服务商，由专业的海外�
 
 [速云梯官网](https://clashxiazai.com/suyunti) ｜ [速云梯机场怎么样？](https://clashxiazai.com/how-about-suyunti/)  
 
-[![CATNET 机场](https://clashsubs.com/wp-content/uploads/2023/11/CATNET-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-1.webp "CATNET 机场")](https://clashsubs.com/catnet)
-### 25.CATNET - 老牌翻墙机场
 
-- 老牌翻墙机场
-- IEPL 专线翻墙
-
-CATNET 是一家老牌翻墙机场，BGP内网跨境专线，Cloud Connect 云连接技术加持，Shadowsocks 协议节点。CATNET 属于高端机场，套餐设置简单，不打价格战，节点方面除了常用的香港、日本、新加坡、美国节点外，还有一些小众冷门地区节点提供，对 Netflix、Disney+ 和 Youtube Premium 解锁支持度也十分不错。  2026 年开始维护速度不太及时，经常出问题，所以现在推荐程度也不高了。  
-**套餐价格：**
-- 普通订阅：￥25/月，100G流量。
-- 进阶订阅：￥50/月，300G流量。
-
-
-[CATNET 官网](https://clashsubs.com/catnet) ｜ [CATNET 机场怎么样？](https://clashsubs.com/how-about-catnet/)  
 
 
 
