@@ -407,9 +407,14 @@ YepFast 椰皮加速机场是一家提供 Shadowsocks 加速协议的翻墙机�
 
 [速云梯官网](https://clashxiazai.com/suyunti) ｜ [速云梯机场怎么样？](https://clashxiazai.com/how-about-suyunti/)  
 
+### 23.月兔VPN（Tsuki）
 
+- 公网中转
+- Hysteria2（UDP）
 
+月兔VPN（Tsuki）为公网中转，协议 Hysteria2（UDP），12元/30天起，100G/30天。兼容四端第三方客户端（iOS Shadowrocket/Hiddify、Android Clash Meta、Win/Mac Clash Verge）。
 
+[月兔VPN官网](https://buddahs-temptation.win/tsuki)
 
  更多--[翻墙机场推荐汇总](https://clashxiazai.com/clash-nodes-providers/)
 
